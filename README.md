@@ -1,2 +1,5 @@
 # hello-world
-my first hello-world test
+
+Hi Humans!
+
+HuyGuyver here, I like to develop using Asp.Net
